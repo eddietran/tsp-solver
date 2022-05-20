@@ -1,1 +1,2 @@
-# tsp-solver
+# Travelling Sales Person Problem Solver
+This is a program implemented to solve Traveling Salesperson Problems represented in the National Traveling Salesperson Problems dataset here: https://www.math.uwaterloo.ca/tsp/world/countries.html. The program implements a simple genetic algorithm using selection, crossover, and mutation, mostly based on the respective algorithm in the textbook Artificial Intelligence: A Modern Approach (fourth edition) by Russell & Norvig.
